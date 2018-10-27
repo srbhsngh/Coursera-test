@@ -1,0 +1,118 @@
+body
+{
+	font-size: 16px;
+	background-color: #6AFB92;
+	font-family: sans-serif;
+	color: #000;
+	margin: 0;
+	padding: 0;
+}
+
+.nav-brand 
+{
+	color: #FFFFFF;
+ 	font-size: 1em;
+	font-family: arial bold;
+	padding-top: 0px;
+}
+
+h1
+{
+	text-align: center;
+	font-size: 60px;
+	font-family:AR JULIAN;
+	margin: 50px 0 100px 0;
+}
+h2
+{
+	text-align: center;
+	font-family:Matura MT Script Capitals;
+	font-size: 40px;
+}
+
+
+section
+{
+	margin: 20px 40px 20px 40px;
+}
+.row
+{
+	margin:50px;
+}
+
+#chicken {
+	border:	1px solid black;
+	background-color: #87F717;
+	width: 100%;
+	height: auto;
+	font-family: Helvetica;
+	color: black;
+	position: relative;
+	overflow: auto;
+	margin-bottom: 90px;
+
+}
+
+#beef {
+	border:	1px solid black;
+	background-color: #87F717;
+	width: 100%;
+	height: auto;
+	font-family: Helvetica;
+	color: black;
+	position: relative;
+	overflow: auto;
+	margin-bottom: 90px; 
+}
+
+#sushi {
+	border:	1px solid black;
+	background-color: #87F717;
+	width: 100%;
+	height: auto;
+	font-family: Helvetica;
+	color: black;
+	position: relative;
+	overflow: auto;
+	margin-bottom: 90px; 
+}
+.navbar-brand {
+  font-size: 2em;
+  border: 0px 0 10px 10px;
+  color: #FFFFFF;
+}
+
+#header-nav {
+  border: 0;
+  border-radius: 0;
+  font-family: arial bold;
+  font-size: 20px;
+  color: #FFFFFF;
+
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #fff;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+.nav-header {
+  background-color: #FFFFFF;
+}
+
+
+#nav-list {
+  color: white;
+}
+
+hr {
+  border-color: white;
+}
+
+.item {
+  color: white;
+  font-size: 1.2em;
+}
